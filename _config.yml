@@ -4,7 +4,7 @@ email: csbit32@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A blog about FOSS software development and computer science.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "nerith.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username:
 github_username:  nerith
 
