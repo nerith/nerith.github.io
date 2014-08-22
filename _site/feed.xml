@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nerith</title>
+    <description>A blog about FOSS software development and computer science.
+</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 22 Aug 2014 13:45:18 -0400</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2014 13:45:18 -0400</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>debci and the Debian Continuous Integration Project</title>
+        <description>&lt;p&gt;Over the summer, I worked on the &lt;a href=&quot;http://ci.debian.net&quot;&gt;Debian Continuous Integration project&lt;/a&gt; under my mentor Antonio Terceiro
+as part of the Google Summer of Code.&lt;/p&gt;
+
+&lt;p&gt;My project involved improving the web interface of debci. I had to implement support for multiple suites and
+architectures, reduce the dependency the UI had on Javascript, and provide more information to package maintainers.&lt;/p&gt;
+
+&lt;p&gt;Expect more information here soon…&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Aug 2014 12:21:27 -0400</pubDate>
+        <link>/jekyll/update/2014/08/21/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/jekyll/update/2014/08/21/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
