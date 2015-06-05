@@ -2,7 +2,9 @@
 title: nerith
 email: csbit32@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A blog about FOSS software development and computer science.
+  A blog about FOSS software development and computer science. Powered by
+  <a href='http://jekyllrb.com'>Jekyll</a> and
+  <a href='http://getbootstrap.com'>Bootstrap</a>.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username:
