@@ -11,3 +11,7 @@ and *nix systems, especially GNU/Linux.
 
 I am experienced in several programming languages such as C, Java, Python, and Ruby and I have a tendency to dabble in theoretical Computer Science
 from time to time.
+
+### IRC
+
+I am `nerith` on `irc.oftc.net` and `irc.freenode.net`.
