@@ -15,3 +15,7 @@ from time to time.
 ### IRC
 
 I am `nerith` on `irc.oftc.net` and `irc.freenode.net`.
+
+### GitHub
+[GitHub](https://github.com/nerith/) holds most of my free software and open
+source work.
