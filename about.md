@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I am a Computer Science undergraduate student and
-<a href='https://en.wikipedia.org/wiki/Free_and_open-source_software'>FOSS</a>
+[FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 enthusiast with an interest in system administration, FOSS software development,
 and *nix systems, especially GNU/Linux.
 
