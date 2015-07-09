@@ -14,10 +14,9 @@ I am experienced in several programming languages such as C, Java, Python, and
 Ruby and I have a tendency to dabble in theoretical Computer Science from time
 to time.
 
-### IRC
+### On the Web
 
-I am `nerith` on `irc.oftc.net` and `irc.freenode.net`.
+  * I am `nerith` on `irc.oftc.net` and `irc.freenode.net`.
 
-### GitHub
-[GitHub](https://github.com/nerith/) holds most of my free software and open
+  * [GitHub](https://github.com/nerith/) holds most of my free software and open
 source work.
