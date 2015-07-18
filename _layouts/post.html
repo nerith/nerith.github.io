@@ -12,4 +12,23 @@ layout: default
     {{ content }}
   </article>
 
+  <nav>
+    <div class='pager'>
+      {% if page.previous %}
+        <div class='previous'>
+          <a href='{{page.previous.url}}'>
+            <span>&larr;</span>{{page.previous.title}}
+          </a>
+        </div>
+      {% endif %}
+
+      {% if page.next %}
+        <div class='next'>
+          <a href='{{page.next.url}}'>{{page.next.title}}
+            <span>&rarr;</span>
+          </a>
+        </div>
+      {% endif %}
+    </div>
+  </nav>
 </div>
