@@ -18,5 +18,5 @@ to time.
 
   * I am `nerith` on `irc.oftc.net` and `irc.freenode.net`.
 
-  * [GitHub](https://github.com/nerith/) holds most of my free software and open
-    source work.
+  * [GitHub](https://github.com/{{ site.github_username }}) holds most of my
+    free software and open source work.
