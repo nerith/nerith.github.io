@@ -16,7 +16,7 @@ to time.
 
 ### On the Web
 
-  * I am `nerith` on `irc.oftc.net` and `irc.freenode.net`.
+  * I am `nerith` on `irc.oftc.net`, `irc.freenode.net`, and `irc.mozilla.org`.
 
   * [GitHub](https://github.com/{{ site.github_username }}) holds most of my
     free software and open source work.
