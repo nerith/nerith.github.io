@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Adventures in Rust (part 2)"
+tags: rust open-source
+---
+
+![rust](/assets/rust-logo.png)
+
+## Updates
+
+It's been a while since I wrote the first part of this series.
+
+Over the past few weeks I have been working on getting basic navigation working
+on the keyboard with `TAB` and `SHIFT`+`TAB`. Navigation currently works, although there are a few bugs.
+
+Some of the hardest problems that I faced so far were getting the elements in
+the page added in the right order, specifically tree order, but I found in
+the Servo documentation that there is a method to traverse the DOM tree in
+preorder. Pretty useful!
+
+## Navigating Web Pages
+
+The results of the work are shown below. The GIF below shows me navigating
+Wikipedia links using the keyboard.
+
+![keyboard navigation with servo](/assets/servo.gif)
+
+Wikipedia also has an autofocus element on the main page, which makes the focus
+ordering list not entirely correct. So, the code will have to handle autofocus
+in future updates.
+
+## Next Steps
+
+These were the initial steps to get keyboard navigation supported. Next,
+the implementation needs to be brought up to spec, as defined by WHATWG.
+
+Until next time.

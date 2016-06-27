@@ -1,0 +1,25 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Brandon Fairchild
+tagline:             Software Developer
+url:                 ""
+paginate:            100
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Brandon Fairchild
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist

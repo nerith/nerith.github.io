@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Adventures in Rust (part 1)"
+date:   2016-06-01
+tags: rust open-source
+---
+
+![rust](/assets/rust-logo.png)
+
+Over the past few months, I have become interested in web  browser internals.
+This mostly happened by fixing issues reported on the Mozilla Servo project
+earlier this year. It is a really interesting project for many reasons.
+
+Servo is Mozilla's new experimental browser layout engine written in
+[Rust](https://www.rust-lang.org). Its main focus is on increasing security and
+performance of browsers especially as browsers start using more parallelism due
+to the increasing amount of cores in modern processors and face more security
+bugs due to being written in languages such as C++. Rust is perfect for this use
+case and has been shown to be almost equivalent in performance to languages with
+manual memory management.
+
+
+
+## The Project
+
+
+The point of this series is to detail my work on a feature during which I will
+try to provide commentary into software development in Rust, browser internals,
+and open source development.
+
+The feature that I will be trying to implement is sequential focus navigation.
+In other words, navigation using the keyboard. Quite commonly, this is done using
+the `TAB` and `SHIFT` + `TAB` keys.
+
+This feature is quite useful for people who browse the web with a keyboard who
+like to quickly navigate a form or a page.
+
+
+## Initial Progress
+
+For a while, I struggled with Rust's borrow checker, due to Rust's model of
+ownership. Slowly though, I seem to be getting a understanding of how it works.
+The [Rust book](https://doc.rust-lang.org/book/) has great examples for learning
+these aspects of the language.
+
+So far, the basics are in place. The Document object is handling key events and a
+vector was created that holds the elements that are sequentially focusable.
+
+The next step is to get navigation with `Shift` and `Shift`+`Tab` working.
+
+Until next time.
