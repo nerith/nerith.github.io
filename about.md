@@ -9,6 +9,6 @@ Throughout my studies I have found that I enjoy both low-level and high-level Co
 
 In my spare time, I like to tinker with Unix and Unix-like systems and contribute to free and open source software.
 
-I have recently graduated from university and am currently seeking a job in software development. If you are seeking someone to fill a software development position, feel free to contact me using the information below.
+I recently graduated from university with a Bachelor of Science in Computer Science and am currently seeking a job in software development. If you are seeking someone to fill a software development position, feel free to contact me using the information below.
 
 Email: csbit32 [at] gmail [dot] com
