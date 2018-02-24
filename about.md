@@ -11,6 +11,4 @@ In my spare time, I like to tinker with Unix and Unix-like systems and contribut
 
 Software that I create and contribute to is available on my [GitHub](https://github.com/nerith).
 
-I recently graduated from university with a Bachelor of Science in Computer Science and am currently seeking a job in software development. If you are seeking someone to fill a software development position, feel free to contact me using the information below.
-
 Email: csbit32 [at] gmail [dot] com
